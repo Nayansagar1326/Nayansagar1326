@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Aspiring Software Developer and Proficient in Java
+Aspiring Data Engineer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nayansagar1326@gmail.com](mailto:nayansagar1326@gmail.com)
-* 🧠  I'm learning web development in html, CSS, Javascript
+* 🧠  I'm learning api development
 * 🤝  I'm open to collaborating on multiple projects
 * ⚡  I will be the next AI
 
